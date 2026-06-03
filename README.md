@@ -16,7 +16,7 @@ I'm a **16-year-old ( Beckend ) developer** based in Italy. I build web, desktop
 
 ## ⚡ Hobbies & Interests
 * *```I really like playing chess, light chalisthenics, but the thing I like the most is playing deduction/lateral-thinking based games 🧩.```*
-* *```I also like playing Football, Volleyball and of course, parties 👀.```*
+* *```I also like playing Football, Volleyball and of course, go to parties 👀.```*
 
 ## 📫 Contact
 * 📧 [nicholassimone10@gmail.com](mailto:nicholassimone10@gmail.com)

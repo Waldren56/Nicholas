@@ -19,12 +19,11 @@ I'm a **16-year-old ( Beckend ) developer** based in Italy. I build web, desktop
 * *I also like playing Football, Volleyball and of course, parties 👀.*
 
 ## 📫 Contact
-* 📧 [nicholassimone10@gmail.com](mailto:nicholassimone10@gmail.com)
+```* 📧 [nicholassimone10@gmail.com](mailto:nicholassimone10@gmail.com)```
 
-```
 graph TD
-A --> B
-A' --> B
-B --> C
-B --> D
-```
+    A[Gen] --> B(10)
+    C[Feb] --> D(25)
+    E[Mar] --> F(40)
+
+![Statistiche GitHub](https://vercel.app)

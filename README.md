@@ -11,7 +11,7 @@ I'm a **16-year-old backend developer** based in Italy. I build web, desktop, an
 * **Task Manager**
     * *Description:* A modern, interactive frontend To-Do application.
     * *Tech Stack:* JavaScript (ES6+), Modern CSS, and `localStorage` for data persistence.
-    * *Links:* [Source Code](https://github.com/you-name/your-repo) | [Live Demo 🚀](https://your-username.github.io/your-repo)
+    * *Links:* [Source Code](https://github.com/Nicholas/Nicholas) | [Live Demo 🚀](https://Nicholas.github.io/Nicholas)
 
 ## 🧠 Current Focus & Learning
 * 🛰️ **Networking & APIs:** Deepening my backend fundamentals by studying the **OSI model, RESTful APIs, and HTTP protocols**.

@@ -18,7 +18,7 @@ I'm a **16-year-old ( Beckend ) developer** based in Italy. I build web, desktop
 * 📧 [nicholassimone10@gmail.com](mailto:nicholassimone10@gmail.com)
 
 ### 📊 GitHub Stats
-![Le statistiche di Nicholas](https://github-readme-stats.vercel.app/api?username=Waldren56&show_icons=true&theme=radical&rank_icon=github)
+![Le mie statistiche](https://github-readme-stats.vercel.app/api?username=Waldren56&show_icons=true&theme=radical&rank_icon=github)
 
 ### 💻 Most Used Languages
-![I linguaggi più usati da Nicholas](https://github-readme-stats.vercel.app/api/top-langs/?username=Waldren56&layout=compact&theme=radical)
+![I linguaggi più usati da me](https://github-readme-stats.vercel.app/api/top-langs/?username=Waldren56&layout=compact&theme=radical)

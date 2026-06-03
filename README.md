@@ -21,7 +21,10 @@ I'm a **16-year-old ( Beckend ) developer** based in Italy. I build web, desktop
 ## 📫 Contact
 * 📧 [nicholassimone10@gmail.com](mailto:nicholassimone10@gmail.com)
 
-```mermaid
-flowchart TD
-    A [DDSF]
+```
+graph TD
+A --> B
+A' --> B
+B --> C
+B --> D
 ```

@@ -21,8 +21,6 @@ I'm a **16-year-old ( Beckend ) developer** based in Italy. I build web, desktop
 ## 📫 Contact
 * 📧 [nicholassimone10@gmail.com](mailto:nicholassimone10@gmail.com)
 
-```pie title Distribuzione del tempo nel progetto
- "Codice" : 45
- "Testing" : 25
- "Documentazione" : 30
-```
+```mermaid
+flowchart TD
+    A [DDSF]

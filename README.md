@@ -21,5 +21,7 @@ I'm a **16-year-old ( Beckend ) developer** based in Italy. I build web, desktop
 ## 📫 Contact
 * 📧 [nicholassimone10@gmail.com](mailto:nicholassimone10@gmail.com)
 
-### 🔥 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Waldren56&theme=radical)
+pie title Distribuzione del tempo nel progetto
+ "Codice" : 45
+ "Testing" : 25
+ "Documentazione" : 30

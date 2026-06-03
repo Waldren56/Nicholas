@@ -15,8 +15,8 @@ I'm a **16-year-old ( Beckend ) developer** based in Italy. I build web, desktop
 * **Networking & APIs:** I am deepening my computer science and backend fundamentals by studying the **OSI model, RESTful APIs, and HTTP protocols**. 
 
 ## ⚡ Hobbies & Interests
-```* *I really like playing chess, light chalisthenics, but the thing I like the most is playing deduction/lateral-thinking based games 🧩.*
-* *I also like playing Football, Volleyball and of course, parties 👀.*```
+```* *I really like playing chess, light chalisthenics, but the thing I like the most is playing deduction/lateral-thinking based games 🧩.*```
+```* *I also like playing Football, Volleyball and of course, parties 👀.*```
 
 ## 📫 Contact
 * 📧 [nicholassimone10@gmail.com](mailto:nicholassimone10@gmail.com)
